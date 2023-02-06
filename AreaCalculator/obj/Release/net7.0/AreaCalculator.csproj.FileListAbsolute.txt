@@ -1,0 +1,12 @@
+/Users/kirillravel/Projects/AreaCalculator/AreaCalculator/bin/Release/net7.0/AreaCalculator.deps.json
+/Users/kirillravel/Projects/AreaCalculator/AreaCalculator/bin/Release/net7.0/AreaCalculator.dll
+/Users/kirillravel/Projects/AreaCalculator/AreaCalculator/bin/Release/net7.0/AreaCalculator.pdb
+/Users/kirillravel/Projects/AreaCalculator/AreaCalculator/obj/Release/net7.0/AreaCalculator.csproj.AssemblyReference.cache
+/Users/kirillravel/Projects/AreaCalculator/AreaCalculator/obj/Release/net7.0/AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillravel/Projects/AreaCalculator/AreaCalculator/obj/Release/net7.0/AreaCalculator.AssemblyInfoInputs.cache
+/Users/kirillravel/Projects/AreaCalculator/AreaCalculator/obj/Release/net7.0/AreaCalculator.AssemblyInfo.cs
+/Users/kirillravel/Projects/AreaCalculator/AreaCalculator/obj/Release/net7.0/AreaCalculator.csproj.CoreCompileInputs.cache
+/Users/kirillravel/Projects/AreaCalculator/AreaCalculator/obj/Release/net7.0/AreaCalculator.dll
+/Users/kirillravel/Projects/AreaCalculator/AreaCalculator/obj/Release/net7.0/refint/AreaCalculator.dll
+/Users/kirillravel/Projects/AreaCalculator/AreaCalculator/obj/Release/net7.0/AreaCalculator.pdb
+/Users/kirillravel/Projects/AreaCalculator/AreaCalculator/obj/Release/net7.0/ref/AreaCalculator.dll
