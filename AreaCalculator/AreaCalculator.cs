@@ -59,10 +59,10 @@
         }
 
         /// <summary>
-        /// Check, is triangle rectangular
+        /// Check, is triangle right
         /// </summary>
-        /// <returns>true if triangle rectangular, false if not</returns>
-        public bool IsRectangular()
+        /// <returns>true if triangle right, false if not</returns>
+        public bool IsRight()
         {
             // Checking by Pythagorean theorem
             float maxSide = edges[0];
